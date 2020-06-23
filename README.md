@@ -1,1 +1,1 @@
-# ncovi_Oracle
+Django  2.0.5
